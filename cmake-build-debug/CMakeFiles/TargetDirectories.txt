@@ -1,0 +1,3 @@
+D:/Prog/Projects/C-C++ Projects/papug/cmake-build-debug/CMakeFiles/papug.dir
+D:/Prog/Projects/C-C++ Projects/papug/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Prog/Projects/C-C++ Projects/papug/cmake-build-debug/CMakeFiles/rebuild_cache.dir
